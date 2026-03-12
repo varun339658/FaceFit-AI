@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+backend/venv/
+
+# React dependencies
+frontend/node_modules/
+
+# Model weights
+*.pt
+*.pth
+
+# Uploads
+backend/uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
